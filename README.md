@@ -2,4 +2,4 @@
 
 #Projeto feito para testar as funcionalidades da função play da linguagem JavaScript.
 
-Para rodar baixar e abrir o index.
+Para rodar basta baixar e abrir o index.
